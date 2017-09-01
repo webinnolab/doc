@@ -1,11 +1,22 @@
 # Webstorm
+## Windows版本
 我们推荐大家使用webstorm来编写网页代码
 下载地址：
 http://www.jetbrains.com/webstorm/
 激活器：
 下载地址：
 http://pan.baidu.com/s/1nu8BeKL
-* 使用方法
+
+## Mac版本
+下载地址
+http://www.jetbrains.com/webstorm/download/#section=mac
+
+
+破解方法：
+选择“license server” 输入http://idea.iteblog.com/key.php 
+
+
+## 使用方法（Mac版本省略激活器步骤）
 点击下载的激活器，弹出如下窗口
 
 ![激活器](http://upload-images.jianshu.io/upload_images/3253813-d2082236a40b4c2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
